@@ -9,15 +9,15 @@ import cover7 from './assets/japanese-denim.jpeg';
 import coverF from './assets/freudian-cover.avif';
 
 // Songs
-import song1 from "/public/blessed.mp3";
-import song2 from "/public/freudian.mp3";
-import song3 from "/public/weFindLove.mp3";
-import song4 from "/public/loose.mp3";
-import song5 from "/public/neuRoses.mp3";
-import song6 from '/public/superpowers.mp3';
-import song7 from '/public/japaneseDenim.mp3';
-import song8 from '/public/best-part.mp3';
-import song9 from '/public/holdMeDown.mp3';
+import song1 from "/blessed.mp3";
+import song2 from "/freudian.mp3";
+import song3 from "/weFindLove.mp3";
+import song4 from "/loose.mp3";
+import song5 from "/neuRoses.mp3";
+import song6 from '/superpowers.mp3';
+import song7 from '/japaneseDenim.mp3';
+import song8 from '/best-part.mp3';
+import song9 from '/holdMeDown.mp3';
 
 
 function App() {
